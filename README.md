@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jordan
-- 👀 I’m interested in employment opportunities in the Niagara Region or WFH
-- 🌱 I’m currently learning C#, MVC, ADO, RAD
-- 📫 You can reach me these ways
+👋 Hi, I’m Jordan
+👀 I’m interested in employment opportunities in the Niagara Region or WFH
+🌱 I’m currently learning C#, MVC, ADO, RAD
+📫 You can reach me these ways
 <br/>
 <a href="https://www.linkedin.com/in/jordan-hunt-24094524/">
 <img align="left" alt="Jordan's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
