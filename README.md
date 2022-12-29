@@ -1,9 +1,10 @@
--👋 Hi, I’m Jordan
+👋 Hi, I’m Jordan
 
--👀 I’m interested in employment opportunities in the Niagara Region or WFH
+👀 I’m interested in employment opportunities in the Niagara Region or WFH
 
--🌱 I’m currently learning C#, MVC, ADO, RAD
-<summary>-📫 Connect With Me: </summary>
+🌱 I’m currently learning C#, MVC, ADO, RAD
+<details>
+<summary>📫 Connect With Me: </summary>
 <br/>
 <a href="https://www.linkedin.com/in/jordan-hunt-24094524/">
 <img align="left" alt="Jordan's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
@@ -12,6 +13,7 @@
 <img align="left" alt="Jordan's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 <br/>
+</details>
 
 <!---
 johunt89/johunt89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
