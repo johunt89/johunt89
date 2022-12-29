@@ -10,6 +10,7 @@
 <a href="https://twitter.com/probablyjordan4">
   <img align="left" alt="Jordan's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
+<br/>
 </details>
 
 <!---
