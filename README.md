@@ -2,8 +2,23 @@
 
 <details>
 <summary>
+📄 About Me:</summary>
+I spent many years with a successful career in retail management.  During the pandemic the line of work changed drastically and I decided it was time for me to make a career change.  
+ 
+ <br/>
+ 
+ I have a Business diploma and I am currently a Computer Progamming and Analysis (co-op) student who expects to graduate with honours in 2023. 
+ 
+ <br/>
+ 
+ 
+</details>
+
+<details>
+<summary>
 👀 I’m interested in employment opportunities:</summary>
 I am located in the Niagara Region.  I am interested in opportunties within the Niagara Region or that offer WFH.
+<br/>
 </details>
 
 <details>
