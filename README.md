@@ -1,5 +1,7 @@
 -👋 Hi, I’m Jordan
+
 -👀 I’m interested in employment opportunities in the Niagara Region or WFH
+
 -🌱 I’m currently learning C#, MVC, ADO, RAD
 <summary>-📫 Connect With Me: </summary>
 <br/>
