@@ -5,7 +5,7 @@
 📄 About Me:</summary>
 I spent many years with a successful career in retail management.  During the pandemic the line of work changed drastically and I decided it was time for me to make a career change.  
  
- <br/>
+ <br/><br/>
  
  I have a Business diploma and I am currently a Computer Progamming and Analysis (co-op) student who expects to graduate with honours in 2023. 
  
