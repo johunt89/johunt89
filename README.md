@@ -3,7 +3,7 @@
 <details>
 <summary>
 📄 About Me:</summary>
-I spent many years with a successful career in retail management.  During the pandemic the line of work changed drastically and I decided it was time for me to make a career change.  
+I spent many years with a successful career in retail management.  During the pandemic the line of work changed drastically and I decided it was time for me to make a career change.  Computers have always been a big interest and hobby for me.  I have always been interested in how things work.  When MySpace was the big social media thing I found myself digging in to figure out how to have the coolest looking profile possible (I was really cool). After graduating from college the first time I spent many years managing hardware & software repair businesses. I think with my work experience and knowledge I have a unique perspective that will enable me to be succssful in my transition to a new career.
  
  <br/><br/>
  
