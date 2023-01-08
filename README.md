@@ -7,7 +7,7 @@ I spent many years with a successful career in retail management.  During the pa
  
  <br/><br/>
  
- I have a Business diploma and I am currently a Computer Progamming and Analysis (co-op) student who expects to graduate with honours in 2023. 
+ I have a Business diploma and I am currently a Computer Programming and Analysis (co-op) student who expects to graduate with honors in 2023. 
  
  <br/>
  
