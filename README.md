@@ -4,20 +4,20 @@
 <summary>
 📄 About Me:</summary>
 I spent many years with a successful career in retail management.  During the pandemic the line of work changed drastically and I decided it was time for me to make a career change.  Computers have always been a big interest and hobby for me.  I have always been interested in how things work.  When MySpace was the big social media thing I found myself digging in to figure out how to have the coolest looking profile possible (I was really cool). After graduating from college the first time I spent many years managing hardware & software repair businesses. I think with my work experience and knowledge I have a unique perspective that will enable me to be successful in my transition to a new career.
- 
+
  <br/><br/>
- 
- I have a Business diploma and I am currently a Computer Programming and Analysis (co-op) student who expects to graduate with honors in 2023. 
- 
+
+ I have a Business diploma and I am currently a Computer Programming and Analysis (co-op) student who expects to graduate with honors in 2023.
+
  <br/>
- 
- 
+
+
 </details>
 
 <details>
 <summary>
 👀 I’m interested in employment opportunities:</summary>
-I am located in the Niagara Region.  I am interested in opportunties within the Niagara Region or that offer WFH.
+I am located in the Niagara Region.  I am interested in opportunities within the Niagara Region or that offer WFH.
 <br/>
 </details>
 
@@ -29,10 +29,13 @@ I am located in the Niagara Region.  I am interested in opportunties within the 
 <summary>📫Connect With Me:</summary>
 <br/>
 <a href="https://www.linkedin.com/in/jordan-hunt-24094524/">
-<img align="left" alt="Jordan's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+<img align="left" alt="Jordan's LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 <a href="https://twitter.com/probablyjordan4">
 <img align="left" alt="Jordan's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+<a href="https://jordanhunt.tech">
+<img align="left" alt="Jordan's Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/business-startup-14/60/Development-256.png" />
 </a>
 <br/>
 </details>
