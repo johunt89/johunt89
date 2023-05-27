@@ -4,6 +4,8 @@
 <summary>
 📄 About Me:</summary>
 I spent many years with a successful career in retail management.  During the pandemic the line of work changed drastically and I decided it was time for me to make a career change.  Computers have always been a big interest and hobby for me.  I have always been interested in how things work.  When MySpace was the big social media thing I found myself digging in to figure out how to have the coolest looking profile possible (I was really cool). After graduating from college the first time I spent many years managing hardware & software repair businesses. I think with my work experience and knowledge I have a unique perspective that will enable me to be successful in my transition to a new career.
+ 
+
 
  <br/><br/>
 
@@ -17,6 +19,9 @@ I spent many years with a successful career in retail management.  During the pa
 <details>
 <summary>
 👀 I’m interested in employment opportunities:</summary>
+ 
+I am currently employed as a Full Stack Developer CO-OP role that is ending at the end of the Summer and I am looking for new opportunities that line up with the completion of this role.
+ 
 I am located in the Niagara Region.  I am interested in opportunities within the Niagara Region or that offer WFH.
 <br/>
 </details>
